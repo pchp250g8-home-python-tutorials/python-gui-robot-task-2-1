@@ -4,8 +4,7 @@ RobotTask-2-1. Занятия по Python. Исполнитель Робот. П
 
 Robot-Pos-N1
 
-
-
+<img width="549" height="409" alt="изображение" src="https://github.com/user-attachments/assets/3991351c-914e-438f-b3b2-4db6bd9ca479" />
 
 Robot-Pos-N2
 
