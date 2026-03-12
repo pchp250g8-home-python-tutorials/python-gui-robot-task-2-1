@@ -2,6 +2,7 @@ RobotTask-2-1. Python Tutorials. Actor Robot. StepInDev Platform. GUI Applicatio
 The robot's field is 6 cells long and 6 cells wide. It has blue walls around the perimeter. 
 The robot's starting position is marked with a blue square. 
 The robot's final position is marked with a red house. 
+Some cells have walls on the down.
 The task is to move the robot from its starting position to its final position. 
 Along the way, color in the cells marked with an orange square (see figures). 
 Solve the problem for all robot environments (write a common code).
